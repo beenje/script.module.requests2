@@ -4,7 +4,14 @@ various contributors:
 Development Lead
 ````````````````
 
-- Kenneth Reitz <me@kennethreitz.com>
+- Kenneth Reitz <me@kennethreitz.org> `@kennethreitz <https://github.com/kennethreitz>`_
+
+Core Contributors
+`````````````````
+
+- Cory Benfield <cory@lukasa.co.uk> `@lukasa <https://github.com/lukasa>`_
+- Ian Cordasco <graffatcolmingov@gmail.com> `@sigmavirus24 <https://github.com/sigmavirus24>`_
+
 
 
 Urllib3
@@ -80,7 +87,6 @@ Patches and Suggestions
 - David Kemp
 - Brendon Crawford
 - Denis (Telofy)
-- Cory Benfield (Lukasa)
 - Matt Giuca
 - Adam Tauber
 - Honza Javorek
@@ -111,7 +117,6 @@ Patches and Suggestions
 - Leila Muhtasib
 - Matthias Rahlf <matthias@webding.de>
 - Jakub Roztocil <jakub@roztocil.name>
-- Ian Cordasco <graffatcolmingov@gmail.com> @sigmavirus24
 - Rhys Elsmore
 - André Graf (dergraf)
 - Stephen Zhuang (everbird)
